@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Sample Page	</title>
-	<atom:link href="//sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>//</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Nov 2023 11:39:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
