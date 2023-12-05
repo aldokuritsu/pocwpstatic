@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Test article	</title>
-	<atom:link href="//2023/12/05/test-article/feed/" rel="self" type="application/rss+xml" />
-	<link>//2023/12/05/test-article/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 05 Dec 2023 11:56:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
